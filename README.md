@@ -1,5 +1,5 @@
-# T-Shirt Picker Widget
-A little color picker widget 
+# Color Picker Widget
+Little t-shirt color picker widget 
 
 ## Demo:
 https://bilalturkmen.github.io/t-shirt-picker/
